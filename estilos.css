@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Merriweather', serif;
-  background: #f2f2f2 url("imagenes/fondo.jpg");
+  background: #fff url("imagenes/fondo.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
